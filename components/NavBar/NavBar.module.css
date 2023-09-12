@@ -1,0 +1,64 @@
+.nav{
+    width: 70%;
+    /* margin: auto; */
+
+    height: 200px;
+    margin: 0px 220px;
+}
+.heading h1{
+    color: #000;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    /* padding-left: 80px; */   
+}
+.icon_text{
+    /* padding-left: 80px;  */
+    font-family: 'Poppins', sans-serif;
+}
+.icon_text a{
+    text-decoration: none;
+    color: #000;
+}
+.icon_text span{
+    font-size: 14px;
+    font-weight: 600;
+    left: 8px;
+}
+.containers ul{
+    /* padding-left: 80px;  */
+    font-family: 'Poppins', sans-serif;
+    /* margin: 0%; */
+   padding: 0%;
+}
+ .containers ul li {
+       list-style-type: none;
+       display: inline-block;
+       padding: 4px 10px;
+       width: auto;
+       color: #0084ff;
+       font-size: 15px; 
+       border: 1px solid #0084ff;
+       border-radius:15px;
+       margin: 5px;
+       cursor: pointer;
+      
+}
+.containers ul  li a{
+       text-decoration: none;  
+       color:#0084ff;
+       
+}
+.containers ul  :hover{
+       background-color: #0084ff;
+       color: white;
+}
+.ele1_color{
+    background-color:#0084ff ;
+}
+.ele1_color a:first-child{
+    color: #fff;
+}
+.fa_color{
+    color: #0084ff;
+    font-size: 20px;
+}
